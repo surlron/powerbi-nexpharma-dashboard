@@ -1,0 +1,11 @@
+Invoice Date,Invoice Number,Customer Name,Customer ID,SKU,Item Name,Brand,Quantity,Item Total,Total,Invoice Status,Sales Person,Shipping City,Shipping State
+2026-01-08,INV-0001,Apex Pharmacy Sdn Bhd,C001,SKU-1001,Paracetamol 500mg x100,ParaRelief,50,250.00,250.00,Paid,Ahmad Razif,Petaling Jaya,Selangor
+2026-01-10,INV-0002,MediCare Pharmacy,C002,SKU-1002,Ibuprofen 400mg x100,IbuCare,30,180.00,180.00,Paid,Siti Norziana,Kuala Lumpur,Wilayah Persekutuan
+2026-01-13,INV-0003,Wellness Plus Pharmacy,C003,SKU-1003,Amoxicillin 250mg x50,AmoxiPlus,20,320.00,320.00,Paid,Ahmad Razif,Shah Alam,Selangor
+2026-01-15,INV-0004,PharmaFirst Sdn Bhd,C004,SKU-1004,Metformin 500mg x100,MetaForm,40,280.00,280.00,Paid,Lim Wei Kiat,Subang Jaya,Selangor
+2026-01-18,INV-0005,HealthHub Pharmacy,C005,SKU-1005,Atorvastatin 10mg x30,AtovaMax,25,375.00,375.00,Paid,Siti Norziana,Klang,Selangor
+2026-01-21,INV-0006,CareMore Pharmacy,C006,SKU-1006,Omeprazole 20mg x30,OmePro,35,245.00,245.00,Overdue,Lim Wei Kiat,Ampang,Kuala Lumpur
+2026-01-23,INV-0007,Apex Pharmacy Sdn Bhd,C001,SKU-1007,Cetirizine 10mg x100,CetiClear,60,420.00,420.00,Paid,Ahmad Razif,Petaling Jaya,Selangor
+2026-01-25,INV-0008,MediCare Pharmacy,C002,SKU-1008,Amlodipine 5mg x30,AmloCard,15,195.00,195.00,Paid,Siti Norziana,Kuala Lumpur,Wilayah Persekutuan
+2026-01-28,INV-0009,Wellness Plus Pharmacy,C003,SKU-1002,Ibuprofen 400mg x100,IbuCare,20,120.00,120.00,Overdue,Ahmad Razif,Shah Alam,Selangor
+2026-01-31,INV-0010,PharmaFirst Sdn Bhd,C004,SKU-1009,Simvastatin 20mg x30,SimvaLip,30,270.00,270.00,Paid,Lim Wei Kiat,Subang Jaya,Selangor

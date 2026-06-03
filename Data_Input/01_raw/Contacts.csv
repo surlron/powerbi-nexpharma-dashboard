@@ -1,0 +1,11 @@
+Contact ID,Contact Name,Customer Sub Type,Shipping City,Shipping State,Sales Person,Status,CF.Tag
+C001,Apex Pharmacy Sdn Bhd,Retail Pharmacy,Petaling Jaya,Selangor,Ahmad Razif,Active,Key Account
+C002,MediCare Pharmacy,Retail Pharmacy,Kuala Lumpur,Wilayah Persekutuan,Siti Norziana,Active,Regular
+C003,Wellness Plus Pharmacy,Retail Pharmacy,Shah Alam,Selangor,Ahmad Razif,Active,Regular
+C004,PharmaFirst Sdn Bhd,Wholesale,Subang Jaya,Selangor,Lim Wei Kiat,Active,Key Account
+C005,HealthHub Pharmacy,Retail Pharmacy,Klang,Selangor,Siti Norziana,Active,New
+C006,CareMore Pharmacy,Retail Pharmacy,Ampang,Kuala Lumpur,Lim Wei Kiat,Active,Regular
+C007,MedPoint Clinic,Clinic,Cheras,Kuala Lumpur,Ahmad Razif,Active,New
+C008,LifeCare Dispensary,Dispensary,Puchong,Selangor,Siti Norziana,Inactive,Regular
+C009,UniPharm Sdn Bhd,Wholesale,Johor Bahru,Johor,Lim Wei Kiat,Active,Key Account
+C010,Harmony Medical Hall,Retail Pharmacy,Ipoh,Perak,Ahmad Razif,Active,Regular

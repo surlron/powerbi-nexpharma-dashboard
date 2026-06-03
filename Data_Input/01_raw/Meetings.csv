@@ -1,0 +1,11 @@
+Record Id,Contact Name,Related To,Check-In Time,Check-In City,Check-In State,Type Of Meeting,Purpose Of Visit,Provider,Top 3 Brands
+MTG-001,Apex Pharmacy Sdn Bhd,C001,2026-01-06 10:00,Petaling Jaya,Selangor,Sales Visit,Order Follow-Up,Ahmad Razif,ParaRelief;CetiClear;MetaForm
+MTG-002,MediCare Pharmacy,C002,2026-01-08 14:00,Kuala Lumpur,Wilayah Persekutuan,Sales Visit,New Product Introduction,Siti Norziana,IbuCare;AmloCard;OmePro
+MTG-003,PharmaFirst Sdn Bhd,C004,2026-01-09 11:00,Subang Jaya,Selangor,Key Account Review,Quarterly Review,Lim Wei Kiat,MetaForm;SimvaLip;LosarPro
+MTG-004,Wellness Plus Pharmacy,C003,2026-01-13 09:30,Shah Alam,Selangor,Sales Visit,Order Follow-Up,Ahmad Razif,AmoxiPlus;ParaRelief;IbuCare
+MTG-005,HealthHub Pharmacy,C005,2026-01-16 15:00,Klang,Selangor,Introductory Visit,New Customer Onboarding,Siti Norziana,AtovaMax;CetiClear;OmePro
+MTG-006,CareMore Pharmacy,C006,2026-01-21 10:30,Ampang,Kuala Lumpur,Sales Visit,Reorder Discussion,Lim Wei Kiat,OmePro;IbuCare;MetaForm
+MTG-007,UniPharm Sdn Bhd,C009,2026-01-23 13:00,Johor Bahru,Johor,Key Account Review,Quarterly Review,Lim Wei Kiat,SimvaLip;LosarPro;AtovaMax
+MTG-008,Apex Pharmacy Sdn Bhd,C001,2026-01-27 11:00,Petaling Jaya,Selangor,Sales Visit,Promotion Discussion,Ahmad Razif,ParaRelief;MetaForm;AmoxiPlus
+MTG-009,MedPoint Clinic,C007,2026-01-29 14:30,Cheras,Kuala Lumpur,Introductory Visit,New Customer Onboarding,Ahmad Razif,AmoxiPlus;IbuCare;OmePro
+MTG-010,Harmony Medical Hall,C010,2026-01-30 10:00,Ipoh,Perak,Sales Visit,Order Follow-Up,Ahmad Razif,ParaRelief;CetiClear;LosarPro

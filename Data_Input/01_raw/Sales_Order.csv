@@ -1,0 +1,11 @@
+Order Date,SalesOrder Number,Customer Name,Customer ID,SKU,Item Name,QuantityOrdered,QuantityInvoiced,Item Total,Total,Sales Person,Shipping City,Shipping State,Sales Channel,Status,Expected Shipment Date
+2026-01-05,SO-0001,Apex Pharmacy Sdn Bhd,C001,SKU-1001,Paracetamol 500mg x100,50,50,250.00,250.00,Ahmad Razif,Petaling Jaya,Selangor,Direct,Confirmed,2026-01-08
+2026-01-07,SO-0002,MediCare Pharmacy,C002,SKU-1002,Ibuprofen 400mg x100,30,30,180.00,180.00,Siti Norziana,Kuala Lumpur,Wilayah Persekutuan,Online,Confirmed,2026-01-10
+2026-01-10,SO-0003,Wellness Plus Pharmacy,C003,SKU-1003,Amoxicillin 250mg x50,20,20,320.00,320.00,Ahmad Razif,Shah Alam,Selangor,Direct,Confirmed,2026-01-13
+2026-01-12,SO-0004,PharmaFirst Sdn Bhd,C004,SKU-1004,Metformin 500mg x100,40,40,280.00,280.00,Lim Wei Kiat,Subang Jaya,Selangor,Direct,Confirmed,2026-01-15
+2026-01-15,SO-0005,HealthHub Pharmacy,C005,SKU-1005,Atorvastatin 10mg x30,25,25,375.00,375.00,Siti Norziana,Klang,Selangor,Online,Confirmed,2026-01-18
+2026-01-18,SO-0006,CareMore Pharmacy,C006,SKU-1006,Omeprazole 20mg x30,35,35,245.00,245.00,Lim Wei Kiat,Ampang,Kuala Lumpur,Direct,Confirmed,2026-01-21
+2026-01-20,SO-0007,Apex Pharmacy Sdn Bhd,C001,SKU-1007,Cetirizine 10mg x100,60,60,420.00,420.00,Ahmad Razif,Petaling Jaya,Selangor,Direct,Confirmed,2026-01-23
+2026-01-22,SO-0008,MediCare Pharmacy,C002,SKU-1008,Amlodipine 5mg x30,15,15,195.00,195.00,Siti Norziana,Kuala Lumpur,Wilayah Persekutuan,Online,Confirmed,2026-01-25
+2026-01-25,SO-0009,Wellness Plus Pharmacy,C003,SKU-1002,Ibuprofen 400mg x100,20,20,120.00,120.00,Ahmad Razif,Shah Alam,Selangor,Direct,Confirmed,2026-01-28
+2026-01-28,SO-0010,PharmaFirst Sdn Bhd,C004,SKU-1009,Simvastatin 20mg x30,30,30,270.00,270.00,Lim Wei Kiat,Subang Jaya,Selangor,Direct,Confirmed,2026-01-31

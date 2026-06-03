@@ -1,0 +1,11 @@
+Item Name,Item ID,SKU,Brand,Manufacturer,Selling Price,Status,Stock On Hand
+Paracetamol 500mg x100,ITEM-001,SKU-1001,ParaRelief,PharmaCo Sdn Bhd,5.00,Active,1200
+Ibuprofen 400mg x100,ITEM-002,SKU-1002,IbuCare,MedSupply Bhd,6.00,Active,850
+Amoxicillin 250mg x50,ITEM-003,SKU-1003,AmoxiPlus,BioPharm Malaysia,16.00,Active,430
+Metformin 500mg x100,ITEM-004,SKU-1004,MetaForm,PharmaCo Sdn Bhd,7.00,Active,960
+Atorvastatin 10mg x30,ITEM-005,SKU-1005,AtovaMax,MedSupply Bhd,15.00,Active,520
+Omeprazole 20mg x30,ITEM-006,SKU-1006,OmePro,BioPharm Malaysia,7.00,Active,740
+Cetirizine 10mg x100,ITEM-007,SKU-1007,CetiClear,PharmaCo Sdn Bhd,7.00,Active,1100
+Amlodipine 5mg x30,ITEM-008,SKU-1008,AmloCard,MedSupply Bhd,13.00,Active,380
+Simvastatin 20mg x30,ITEM-009,SKU-1009,SimvaLip,BioPharm Malaysia,9.00,Active,610
+Losartan 50mg x30,ITEM-010,SKU-1010,LosarPro,PharmaCo Sdn Bhd,11.00,Active,290

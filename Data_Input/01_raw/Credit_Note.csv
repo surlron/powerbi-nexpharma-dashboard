@@ -1,0 +1,6 @@
+Credit Note Date,Credit Note Number,Customer Name,Invoice Number,SKU,Item Name,Quantity,Item Total,Total,Credit Note Status
+2026-01-15,CN-0001,Apex Pharmacy Sdn Bhd,INV-0001,SKU-1001,Paracetamol 500mg x100,5,25.00,25.00,Applied
+2026-01-22,CN-0002,MediCare Pharmacy,INV-0002,SKU-1002,Ibuprofen 400mg x100,3,18.00,18.00,Applied
+2026-02-05,CN-0003,Wellness Plus Pharmacy,INV-0005,SKU-1003,Amoxicillin 250mg x50,2,32.00,32.00,Open
+2026-02-18,CN-0004,PharmaFirst Sdn Bhd,INV-0007,SKU-1004,Metformin 500mg x100,4,28.00,28.00,Applied
+2026-03-03,CN-0005,HealthHub Pharmacy,INV-0009,SKU-1005,Atorvastatin 10mg x30,1,15.00,15.00,Open
