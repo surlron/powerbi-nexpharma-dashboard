@@ -1,0 +1,99 @@
+ZOHO EXPORT GUIDE
+
+Use the saved Zoho export templates below. Do not change the selected fields.
+
+Sales Orders → Save as: Sales_Order.csv
+Required fields:
+
+* Order Date
+* SalesOrder Number
+* Customer Name
+* Customer ID
+* SKU
+* Item Name
+* QuantityOrdered
+* QuantityInvoiced
+* Item Total
+* Total
+* Sales Person
+* Shipping City
+* Shipping State
+* Sales Channel
+* Status
+* Expected Shipment Date
+
+Invoices → Save into: Data_Input/01_raw/Invoices/
+File name format:
+Invoice_[year]_[month].csv
+
+Required fields:
+
+* Invoice Date
+* Invoice Number
+* Customer Name
+* Customer ID
+* SKU
+* Item Name
+* Brand
+* Quantity
+* Item Total
+* Total
+* Invoice Status
+* Sales Person
+* Shipping City
+* Shipping State
+
+Credit Notes → Save as: Credit_Note.csv
+Required fields:
+
+* Credit Note Date
+* Credit Note Number
+* Customer Name
+* Invoice Number
+* SKU
+* Item Name
+* Quantity
+* Item Total
+* Total
+* Credit Note Status
+
+Items → Save as: Item.csv
+Required fields:
+
+* Item Name
+* Item ID
+* SKU
+* Brand
+* Manufacturer
+* Selling Price
+* Status
+* Stock On Hand
+
+Contacts → Save as: Contacts.csv
+Required fields:
+
+* Contact ID
+* Contact Name
+* Customer Sub Type
+* Shipping City
+* Shipping State
+* Sales Person
+* Status
+* CF.Tag
+
+Meetings / Visits → Save as: Meetings.csv
+Required fields:
+
+* Record Id
+* Contact Name
+* Related To
+* Check-In Time
+* Check-In City
+* Check-In State
+* Type Of Meeting
+* Purpose Of Visit
+* Provider
+* Top 3 Brands
+
+Note:
+If a refresh error mentions a missing column, compare the exported template against the field list above. The dashboard is a picky little machine 🛠️ and even one missing field can make it grumble.

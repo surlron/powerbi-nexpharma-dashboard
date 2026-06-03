@@ -1,0 +1,66 @@
+DATA UPDATE GUIDE
+
+Monthly Update Process
+
+1. Export the latest files from Zoho using the saved export templates.
+
+2. Replace these files inside:
+
+   Data_Input/01_raw/
+
+Required files:
+
+* Sales_Order.csv
+* Credit_Note.csv
+* Item.csv
+* Contacts.csv
+* Meetings.csv
+
+3. Invoices are saved separately inside:
+
+   Data_Input/01_raw/Invoices/
+
+Invoice file naming format:
+Invoice_[year]_[month].csv
+
+Examples:
+
+* Invoice_2026_01.csv
+* Invoice_2026_02.csv
+* Invoice_2026_03.csv
+
+Invoice rules:
+
+* Use 4-digit year
+* Use 2-digit month (01–12)
+* Do not rename old invoice files
+* Do not delete previous invoice files
+* Add the new month's file into the Invoices folder
+
+Example folder structure:
+
+Data_Input/
+└── 01_raw/
+├── Invoices/
+│   ├── Invoice_2026_01.csv
+│   ├── Invoice_2026_02.csv
+│   └── Invoice_2026_03.csv
+├── Sales_Order.csv
+├── Credit_Note.csv
+├── Item.csv
+├── Contacts.csv
+└── Meetings.csv
+
+After replacing the files:
+
+1. Open NexPharma_Dashboard.pbix
+2. Click Refresh
+3. Wait for refresh to complete
+4. Save the PBIX file
+
+If refresh fails:
+
+* Check that the file names are unchanged
+* Check that the files remain in the same folder
+* Check that the exported file still contains the same columns
+* Check that invoice files follow the correct naming format

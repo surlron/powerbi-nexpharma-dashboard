@@ -1,0 +1,152 @@
+# NexPharma Power BI Desktop Installation Guide
+
+============================================================
+PURPOSE
+=======
+
+This guide explains only how to install Microsoft Power BI Desktop.
+
+It does not cover:
+
+* Google Drive setup
+* Folder syncing
+* Data source configuration
+
+Those are covered separately in the Google Drive setup guide.
+
+============================================================
+SYSTEM REQUIREMENTS
+===================
+
+Recommended:
+
+* Windows 10 or Windows 11 (64-bit)
+* 16 GB RAM minimum
+* SSD storage
+* Internet connection
+
+Power BI Desktop is only available for Windows.
+
+============================================================
+STEP 1: DOWNLOAD POWER BI DESKTOP
+=================================
+
+Option A: Microsoft Store (Recommended)
+
+1. Open the Microsoft Store.
+
+2. Search for:
+
+   Power BI Desktop
+
+3. Select:
+
+   Microsoft Power BI Desktop
+
+4. Click Install.
+
+This method is recommended because Power BI will usually update automatically.
+
+Option B: Microsoft Website
+
+1. Open your web browser.
+2. Go to the official Microsoft Power BI Desktop download page.
+3. Download the 64-bit version.
+4. Run the installer.
+5. Follow the installation steps.
+
+============================================================
+STEP 2: OPEN POWER BI DESKTOP
+=============================
+
+1. Launch Power BI Desktop.
+2. Wait for the application to open.
+3. You may be asked to sign in.
+
+You can:
+
+* Sign in with a Microsoft account
+* Or skip sign-in if allowed
+
+For opening and using a local PBIX file, a free Microsoft account is sufficient.
+
+============================================================
+MICROSOFT LICENSING
+===================
+
+For the NexPharma dashboard setup, users do NOT need:
+
+* Power BI Pro
+* Power BI Premium
+* Microsoft 365 Business
+
+Users only need the free version of Power BI Desktop.
+
+A paid Microsoft license is only required if you want to:
+
+* Publish reports to the Power BI online service
+* Share dashboards through a web browser
+* Collaborate inside Power BI workspaces
+
+Since the NexPharma dashboard will be opened locally from a PBIX file, no additional Microsoft licensing is required.
+
+============================================================
+STEP 3: OPEN THE PBIX FILE
+==========================
+
+Once Power BI Desktop is installed:
+
+1. Open Power BI Desktop.
+
+2. Select:
+
+   Open another report
+
+3. Browse to the local PBIX file.
+
+4. Open the PBIX.
+
+Recommended local location:
+
+C:\Users<username>\Documents\NexPharma Dashboard\
+
+============================================================
+COMMON ISSUES
+=============
+
+Problem: Cannot install Power BI Desktop
+
+Possible causes:
+
+* Windows is 32-bit instead of 64-bit
+* User does not have administrator rights
+* Microsoft Store is blocked by company policy
+
+Fix:
+
+* Use the 64-bit installer from the Microsoft website
+* Ask IT or an administrator to install it
+
+Problem: Power BI is very slow
+
+Fix:
+
+* Ensure the computer has at least 16 GB RAM
+* Close Excel, browser tabs, Teams, and Outlook
+* Save and open the PBIX from the local computer
+
+Problem: Asked to upgrade or buy a license
+
+Fix:
+
+Ignore the message unless you need online sharing.
+
+For local PBIX usage, the free version is enough.
+
+============================================================
+FINAL RULE
+==========
+
+Always save and open the PBIX from your own computer.
+
+Power BI Desktop is the engine. The PBIX file is the train. Keep both on your local machine, and the dashboard journey stays much smoother.

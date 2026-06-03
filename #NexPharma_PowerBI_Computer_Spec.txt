@@ -1,0 +1,109 @@
+# NexPharma Power BI Computer Specification Recommendations
+
+============================================================
+GENERAL RECOMMENDATION
+======================
+
+Power BI can run on lower-spec computers, but for a smoother
+experience and faster refresh times, these specifications are
+recommended.
+
++------------------------------+----------------------------------------------+
+| User Type                    | Recommended Specification                    |
++------------------------------+----------------------------------------------+
+| General Dashboard User       | Windows 10/11 (64-bit)                       |
+|                              | 16 GB RAM                                   |
+|                              | Intel i5 / AMD Ryzen 5 or better            |
+|                              | 512 GB SSD                                  |
+|                              | 1920 × 1080 screen                          |
++------------------------------+----------------------------------------------+
+| Main Dashboard Owner         | Windows 10/11 (64-bit)                       |
+| / Heavy User                 | 32 GB RAM                                   |
+|                              | Intel i7 / AMD Ryzen 7 or better            |
+|                              | 1 TB SSD                                    |
+|                              | 1920 × 1080 screen                          |
++------------------------------+----------------------------------------------+
+
+============================================================
+MINIMUM PRACTICAL SPEC
+======================
+
+* 16 GB RAM
+* Intel i5 or AMD Ryzen 5
+* SSD storage
+* 1920 × 1080 screen
+
+============================================================
+RECOMMENDED FOR THE MAIN PBIX MAINTAINER
+========================================
+
+* 32 GB RAM
+* Intel i7 or AMD Ryzen 7
+* 1 TB SSD
+
+============================================================
+WHY MORE RAM MATTERS
+====================
+
+Power BI loads imported data into memory.
+
+Even if the raw CSV files look small, Power BI and Power Query
+can use much more memory once the data is:
+
+* Imported
+* Cleaned and transformed
+* Joined with other files
+* Used in charts, measures, and visuals
+
+Having several of these open at once can quickly increase memory
+usage:
+
+* Multiple CSV files
+* Power Query steps
+* Excel
+* Browser tabs
+* Teams
+* Outlook
+
+8 GB RAM may work for small dashboards, but once other programs
+join the party, the computer can begin to slow down.
+
+============================================================
+TYPICAL EXPERIENCE BY RAM SIZE
+==============================
+
+8 GB RAM
+Small dashboards may work, but refreshes are often slow.
+Performance may struggle when Excel or browser tabs are open.
+
+16 GB RAM
+Recommended minimum for most dashboard users.
+Usually gives smooth refresh performance.
+
+32 GB RAM
+Best for the person maintaining the PBIX file or handling
+larger datasets.
+
+============================================================
+QUICK RECOMMENDATION 
+=======================================
+
+"For normal users, we recommend at least:
+
+```
+- 16 GB RAM
+- Intel i5 / Ryzen 5
+- SSD storage
+```
+
+For the person maintaining the dashboard:
+
+```
+- 32 GB RAM
+- Intel i7 / Ryzen 7
+- 1 TB SSD"
+```
+
+A well-specced Power BI computer is less like a bicycle towing a
+mountain of spreadsheets, and more like a sturdy cargo train with
+room for every chart, filter, and CSV carriage.
